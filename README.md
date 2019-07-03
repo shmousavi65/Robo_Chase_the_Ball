@@ -29,7 +29,7 @@ roslaunch my_robot world.launch
 ```
 Run the ball_chaser node:
 ```
-roslaunch my_robot world.launch 
+roslaunch ball_chaser ball_chaser.launch 
 ```
 In order to run the view in rviz from the camera point of view run the following command:
 ```
