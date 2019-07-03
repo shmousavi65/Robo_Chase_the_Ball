@@ -10,7 +10,7 @@ mkdir -p catkin_ws/src
 ```
 Initialize the workspace and build the project:
 ```
-cd src
+cd catkin_ws/src
 catkin_init_worksapce
 cd ..
 catkin_make
