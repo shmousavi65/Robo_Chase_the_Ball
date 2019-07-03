@@ -36,11 +36,11 @@ In order to run the view in rviz from the camera point of view run the following
 rosrun rqt_image_view rqt_image_view
 ```
 
-If the white ball in the in the field of view of the camera, the robot does not move or stops moving:
+If the white ball is the in the field of view of the camera, the robot does not move or stops moving:
 
 ![](https://github.com/shmousavi65/Robo_Chase_the_Ball/blob/master/Capture1.PNG)
 
-If the white ball in the in the field of view of the camera, the robot moves toward it:
+If the white ball is the in the field of view of the camera, the robot moves toward it:
 
 ![](https://github.com/shmousavi65/Robo_Chase_the_Ball/blob/master/Capture2.PNG)
 
